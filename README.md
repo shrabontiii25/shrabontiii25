@@ -1,5 +1,19 @@
-# 💫 About Me:
-# Shrabonti Majumder<br><br>**CS student at Monash University Malaysia, building in Machine Learning and Full-Stack Development.**<br><br>- 🔭 Building ML and full-stack projects — NLP models, applied deep learning, and shipped apps<br>- 👯 Open to collaborating on ML, full-stack, or creative-tech builds — especially anything with a 3D/graphics edge<br>- 🤝 Actively seeking internships in AI, software engineering, and full-stack roles (Nov 2026 – Feb 2027)<br>- 🌱 Deepening my ML fundamentals — currently working through transfer learning with ResNet18<br>- 💬 Talk to me about machine learning, full-stack dev, Blender/Unity, or building student tech communities<br>- ⚡ Outside of code: visual arts, 3D animation, and game dev — Blender and Unity are my tools of choice<br>- 📫 Reach me: *(add your email or LinkedIn here)*<br><br>### Leadership & Community<br>- Frontend Developer — Monash Blockchain Club (MUMBCC)<br>- Publicity Officer & Head of Social Media — MUMTEC<br>- Director of Events — AWS Cloud Club MUM<br><br><br>
+# Shrabonti Majumder
+
+**CS student at Monash University Malaysia, building in Machine Learning and Full-Stack Development.**
+
+- 🔭 Building ML and full-stack projects — NLP models, applied deep learning, and shipped apps
+- 👯 Open to collaborating on ML, full-stack, or creative-tech builds — especially anything with a 3D/graphics edge
+- 🤝 Actively seeking internships in AI, software engineering, and full-stack roles (Nov 2026 – Feb 2027)
+- 🌱 Deepening my ML fundamentals — currently working through transfer learning with ResNet18
+- 💬 Talk to me about machine learning, full-stack dev, Blender/Unity, or building student tech communities
+- ⚡ Outside of code: visual arts, 3D animation, and game dev — Blender and Unity are my tools of choice
+- 📫 Reach me: *(add your email or LinkedIn here)*
+
+### Leadership & Community
+- Frontend Developer — Monash Blockchain Club (MUMBCC)
+- Publicity Officer & Head of Social Media — MUMTEC
+- Director of Events — AWS Cloud Club MUM
 
 
 ## 🌐 Socials:
