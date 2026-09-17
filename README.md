@@ -8,7 +8,7 @@
 - 🌱 Deepening my ML fundamentals — currently working through transfer learning with ResNet18
 - 💬 Talk to me about machine learning, full-stack dev, Blender/Unity, or building student tech communities
 - ⚡ Outside of code: visual arts, 3D animation, and game dev — Blender and Unity are my tools of choice
-- 📫 Reach me: *(add your email or LinkedIn here)*
+- 📫 Reach me: shrabonti1506@gmail.com
 
 ### Leadership & Community
 - Frontend Developer — Monash Blockchain Club (MUMBCC)
